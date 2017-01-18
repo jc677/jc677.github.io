@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Polly is GREAT!"
 date:   2017-01-17 09:10:43 -0500
 categories: jekyll update
 ---
